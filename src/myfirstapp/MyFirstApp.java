@@ -17,7 +17,9 @@ public class MyFirstApp {
      */
     public static void main(String[] args) {
          System.out.println("Hello World");
-        System.out.println("matawe 55025861");
+        System.out.println("My Name is matawe 55025861");
+        
+        System.out.println("Hello World Technology");
+       System.out.println("University of Phayao");
     }
-    
 }
